@@ -1,5 +1,20 @@
-# Loja Online - Campanha de Aniversário
+# Loja Online
 
-## Contato
-Dúvidas: contato@loja.com.br
-Contato Tel: 11 0000-0000
+Projeto de e-commerce desenvolvido na disciplina Git, Agile & Dev culture.
+
+## Como rodar
+
+git clone https://github.com/apnpedro/loja-online.git
+cd loja-online
+npm install
+npm start
+
+## Estrutura
+
+- /src - código da aplicação
+- /tests - testes automatizados
+- /github/worflows - pipeline de CI
+
+## Como contribuir
+
+Veja o fluxo de pull requests no CONTRIBUTIONS.md
